@@ -1,0 +1,23 @@
+body{
+	background-color:#FA87D7;
+}
+h1{
+			color:orange;
+			font-size:69px;
+			text-decoration:underline;
+		}
+#first{
+	font-size:90px;
+}
+.small{
+	font-size:12px;
+}
+h2{
+	font-size:22px;
+}
+span{
+	font-family:"Comic Sans MS";
+}
+h2 span{
+	text-decoration: line-through;
+}
