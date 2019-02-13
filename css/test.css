@@ -1,8 +1,13 @@
+#grad1{
+	background-color:#FA87D7;
+	background-image: linear-gradient(#FA87D7, #D2B4DE);
+}
 body{
 	background-color:#FA87D7;
+	font-family:Comic Sans MS;
 }
 h1{
-			color:orange;
+			color:#82E0AA;
 			font-size:69px;
 			text-decoration:underline;
 		}
@@ -13,6 +18,7 @@ h1{
 	font-size:12px;
 }
 h2{
+	color:white;
 	font-size:22px;
 }
 span{
